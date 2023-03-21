@@ -44,10 +44,11 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
-	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
+	golang.org/x/image v0.5.0 // indirect
 	golang.org/x/mobile v0.0.0-20190719004257-d2bd2a29d028 // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
+
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
