@@ -1,0 +1,2 @@
+
+Dieser Code implementiert eine Funktion, die es dem Benutzer ermöglicht, eine ToDo-Liste zu erstellen. Der Benutzer fügt Aufgaben hinzu, bis er sie mit "q" beendet. Danach wird der Benutzer aufgefordert, eine Pause von 5 Minuten einzulegen und jede Aufgabe wird 25 Minuten lang dauern. Wenn eine Aufgabe abgeschlossen ist, wird der Benutzer daran erinnert, wie viele Aufgaben er bereits abgeschlossen hat. Wenn die ToDo-Liste leer ist, erinnert der Benutzer den Benutzer daran, neue Aufgaben hinzuzufügen.

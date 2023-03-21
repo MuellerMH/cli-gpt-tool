@@ -1,0 +1,2 @@
+
+Dieser Code definiert die Konfigurationsstruktur für einen Bot und stellt Methoden bereit, um diese Konfiguration aus einer YAML-Datei zu laden, OAuth-Tokens zu setzen, API-Keys zu überprüfen und AWS-Credentials zu überprüfen.

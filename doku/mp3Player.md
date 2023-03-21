@@ -1,0 +1,2 @@
+
+Dieser Code enthält eine Implementation eines MP3-Players, mit dem Text-to-Speech von einem AWS Polly Service abgespielt werden kann. Es werden neue Sessions erstellt, die Credentials und Regionen aus den entsprechenden Dateien laden und Polly für die Konvertierung von Text in Sprache verwendet. Zudem wird ein neuer Mp3-Decoder erstellt und das Abspielen des MP3-Files wird implementiert. Die Dateien, die durch den Text-to-Speech erstellt werden, werden nach einiger Zeit wieder entfernt.

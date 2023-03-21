@@ -1,0 +1,2 @@
+
+Dieser Code implementiert eine Funktion zum Abrufen von E-Mails mit dem Google Gmail-API. Es besteht aus zwei Hauptfunktionen: `NewGService` zur Erstellung eines Gmail-Dienstes und `GetMails` zum Abrufen von E-Mails. Es enthält auch Funktionen zum Speichern und Laden von E-Mails als JSON-Datei und Anzeigen aller verfügbaren Labels.

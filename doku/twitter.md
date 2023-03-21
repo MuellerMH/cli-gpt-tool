@@ -1,0 +1,2 @@
+
+Der oben gezeigte Code stellt einen Twitter-Bot dar, der OAuth2-Anmeldungen unterstützt, um Verbindungen zu verschiedenen Twitter-APIs aufzubauen. Es stellt eine Funktion zum Anlegen eines neuen Twitter-Bots bereit, die einen Twitter-Schlüssel und ein Twitter-Geheimnis akzeptiert. Es stellt auch einige Beispielfunktionen bereit, wie das Abrufen von Tweets, das Anzeigen von Tweets und das Abrufen von OEmbed-Tweets.

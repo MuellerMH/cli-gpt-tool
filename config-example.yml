@@ -1,0 +1,28 @@
+use.aws: false
+openai.key: ""
+
+trello.active: false
+trello.key: ""
+trello.secret: ""
+trello.azubi_board: ""
+trello.doku_board: ""
+trello.redaktions-board: ""
+
+polly.active: false
+polly.safeAudio: false
+polly.sample: "assets/test.mp3"
+aws.region: "eu-central-1"
+
+# Empty key and default secret use your local config and credential.json in ~/.asw/
+aws.key:
+aws.secret: "default"
+
+bot.MaxTokens:        2048
+bot.Temperature:      0.8
+bot.PresencePenalty:  0.2
+bot.FrequencyPenalty: 0.2
+bot.N:                1
+bot.Stop:             [stop]
+
+use.wordpress: false
+use.google: false

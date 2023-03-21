@@ -1,0 +1,9 @@
+/.idea
+.DS_Store
+chatgpt
+/mhm
+/k8s
+*.oauth.json
+*mails.json
+*.exe
+*.pem

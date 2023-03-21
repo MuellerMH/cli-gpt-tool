@@ -1,0 +1,2 @@
+
+Dieser Code implementiert verschiedene Structs vom Typ `ChatBotOperationen` mit jeweils einem Namen und einer Beschreibung. Es hat auch diverse Variablen die den Structs zugewiesen werden. Zuletzt definiert der Code eine Funktion `OperationFromString`, die einen übergebenen String vergleicht und entsprechend den passenden Struct zurückgibt.
