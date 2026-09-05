@@ -1,12 +1,12 @@
 module github.com/kkdai/chatgpt
 
-go 1.17
+go 1.23.0
 
 require (
 	github.com/PullRequestInc/go-gpt3 v1.1.9
 	github.com/hajimehoshi/go-mp3 v0.3.0
 	github.com/hajimehoshi/oto v0.7.1
-	golang.org/x/oauth2 v0.4.0
+	golang.org/x/oauth2 v0.27.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
@@ -32,8 +32,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/compute v1.15.1 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
